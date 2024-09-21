@@ -3,7 +3,7 @@
 ## General infos
 Denis Brogniart is a multitasking discord bot.
 Its goal is to manage the Koh Lanta Discord game as game master, without requiring a physical person dedicated to this role.
-Thus, its missions are diverse: management of votes, results, fight against cheating, moderation, management of secret alliances, etc.
+Thus, its missions are diverse: management of votes, results, fight against cheating, moderation, management of secret alliances channels, etc.
 
 ## Technologies
 Project is created with:
